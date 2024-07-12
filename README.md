@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahbubah</h1>
 <h3 align="center"> Generative AI Engineer | Data Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://storage.googleapis.com/pai-images/353b50a812834d1bb065a276a3983ec7.jpeg">
 
 - 🌱 I have a passion of learning and sharing my knowledge. I’m currently learning and developing my skills **Generative AI engineering**
 
