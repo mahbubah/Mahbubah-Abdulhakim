@@ -4,7 +4,7 @@
 
 - 🌱 I have a passion of learning and sharing my knowledge. I’m currently learning and developing my skills **Generative AI engineering**
 
-- 📝 I regularly write articles on [https://medium.com/@mahbubah.abdulhakim12](https://medium.com/@mahbubah.abdulhakim12)
+- 📝 I write articles on [https://medium.com/@mahbubah.abdulhakim12](https://medium.com/@mahbubah.abdulhakim12)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
